@@ -1,9 +1,5 @@
 package Ex1;
 
-import java.io.Console;
-import java.util.Scanner;
-import java.util.stream.Stream;
-
 
 
 public class TestaInverteInt {
