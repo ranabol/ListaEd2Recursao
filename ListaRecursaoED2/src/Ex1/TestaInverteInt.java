@@ -11,9 +11,9 @@ public class TestaInverteInt {
 	public static void main(String[] args) {
 		InverteInt invInt = new InverteInt();
 		
-		invInt.inverteUmNumero(1234567);
+		invInt.inverteUmNumero(123);
 		
-		System.out.println("Valor: "+invInt.valor);
+		System.out.println("Valor invertido: "+invInt.valor);
 		
 			
 		
