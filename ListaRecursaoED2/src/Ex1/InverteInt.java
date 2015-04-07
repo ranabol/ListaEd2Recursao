@@ -1,7 +1,7 @@
 package Ex1;
 import java.lang.Math;
 public class InverteInt {
-	//pega o menor número da execução atual - usado para ver se haverá novos passos
+	//digMenor = pega o menor número da execução atual - usado para ver se haverá novos passos
 	int digMenor,valor;
 	//determina o peso que o dígito atual terá
 	int numElevado;
@@ -11,7 +11,7 @@ public class InverteInt {
 	public void numeroDeDigitos(int n){
 
 		this.lenght = (int)(Math.log10(n)+1); 
-		//this.lenght = Integer.toString(n).length(); Equivalente a anterior
+		//this.lenght = Integer.toString(n).length(); 
 	}
 
 	public void inverteUmNumero(int n){

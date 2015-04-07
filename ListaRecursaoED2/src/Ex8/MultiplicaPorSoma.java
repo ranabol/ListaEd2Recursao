@@ -1,7 +1,6 @@
 package Ex8;
 
 public class MultiplicaPorSoma {
-//	int cont;
 	int result;
 	public int multiplicaRec(int n1,int n2){
 		
